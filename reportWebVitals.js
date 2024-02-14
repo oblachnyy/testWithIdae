@@ -11,3 +11,5 @@ const reportWebVitals = onPerfEntry => {
 };
 
 export default reportWebVitals;
+
+Я отказываюсь это делать все! Всё идите нахуй....
